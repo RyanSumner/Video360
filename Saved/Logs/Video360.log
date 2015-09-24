@@ -582,4 +582,467 @@
 [2015.09.24-01.25.05:531][988]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.589
 [2015.09.24-01.25.05:531][988]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
 [2015.09.24-01.25.11:605][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
-[2015.09.24-01.25.11:640][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/
+[2015.09.24-01.25.11:640][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-01.25.11:659][680]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000020D1A340
+[2015.09.24-01.25.42:232][647]LogSavePackage: Save=40.146610ms
+[2015.09.24-01.25.42:232][647]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Minimal_Default3548175344BB1240BC9B96844C892CEE.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/StarterContent/Maps/Minimal_Default.umap'
+[2015.09.24-01.25.42:233][647]LogSavePackage: Total save time: 44.721220ms
+[2015.09.24-01.25.42:234][647]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/StarterContent/Maps/Minimal_Default.umap
+[2015.09.24-01.25.42:245][647]LogFileHelpers: Saving map 'Minimal_Default' took 0.136
+[2015.09.24-01.42.05:552][975]AssetReimport: New page: Outstanding source content changes 1:42:05 am
+[2015.09.24-01.42.05:577][975]LogFactory: FactoryCreateBinary: MediaPlayer with MediaPlayerFactory (0 0 C:/Users/sumnerryan/Documents/Unreal Projects/Video360/Content/Video/360 Labs 2014 Cinematic VR Video Reel_720p192K.mp4)
+[2015.09.24-01.42.06:559][976]LogSavePackage: Save=1.323118ms
+[2015.09.24-01.42.06:559][976]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K4E0A30094F6614A5939CB49492DF13F9.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/Video/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K.uasset'
+[2015.09.24-01.42.06:561][976]LogSavePackage: Total save time: 3.425680ms
+[2015.09.24-01.42.06:561][976]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/Video/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K.uasset
+[2015.09.24-01.42.09:822][986]AssetReimport: Info Importing new asset /Game/Video/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K.
+[2015.09.24-01.43.15:809][275]LogFactory: FactoryCreateBinary: MediaPlayer with MediaPlayerFactory (0 0 ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/Video/360 Labs 2014 Cinematic VR Video Reel_720p192K.mp4)
+[2015.09.24-01.43.50:093][230]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000020D753A0
+[2015.09.24-01.43.50:094][230]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000269C3EC0
+[2015.09.24-01.43.51:701][230]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 1.629
+[2015.09.24-01.43.51:709][230]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K] ([1] browsable assets)...
+[2015.09.24-01.43.51:709][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K]
+[2015.09.24-01.43.51:713][230]LogSavePackage: Save=1.273267ms
+[2015.09.24-01.43.51:713][230]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Auto2C2AC811E4C41A17E509FBA951326F573.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Autosaves/Game/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Auto2.uasset'
+[2015.09.24-01.43.51:714][230]LogSavePackage: Total save time: 2.824530ms
+[2015.09.24-01.43.51:714][230]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Autosaves/Game/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Auto2.uasset
+[2015.09.24-01.43.51:714][230]LogFileHelpers: Auto-saving content packages took 0.012
+[2015.09.24-01.45.40:537][ 81]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-01.45.49:357][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-01.45.49:357][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.24-01.45.49:357][808]PIE: New page: PIE session: Minimal_Default (25 Sep 2015 1:45:49 am)
+[2015.09.24-01.45.49:357][808]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2015.09.24-01.45.49:359][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001432s)
+[2015.09.24-01.45.49:359][808]LogAIModule: Creating AISystem for world Minimal_Default
+[2015.09.24-01.45.49:360][808]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2015.09.24-01.45.49:360][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002241s)
+[2015.09.24-01.45.49:381][808]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.24-01.45.49:390][808]LogInit: FAudioDevice initialized.
+[2015.09.24-01.45.49:422][808]LogWorld: Game class is 'GameMode'
+[2015.09.24-01.45.49:424][808]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2015.09.24-13.45.49
+[2015.09.24-01.45.49:424][808]LogActor:Warning: GameSession /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameSession_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-01.45.49:424][808]LogActor:Warning: GameNetworkManager /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameNetworkManager_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-01.45.49:424][808]LogWorld: Bringing up level for play took: 0.001577
+[2015.09.24-01.45.49:426][808]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.641
+[2015.09.24-01.45.49:426][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-01.45.53:488][256]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-01.45.53:523][256]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-01.45.53:562][257]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002374B240
+[2015.09.24-01.46.13:661][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-01.46.13:661][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.24-01.46.13:661][457]PIE: New page: PIE session: Minimal_Default (25 Sep 2015 1:46:13 am)
+[2015.09.24-01.46.13:661][457]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2015.09.24-01.46.13:662][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001216s)
+[2015.09.24-01.46.13:663][457]LogAIModule: Creating AISystem for world Minimal_Default
+[2015.09.24-01.46.13:663][457]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2015.09.24-01.46.13:663][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.001970s)
+[2015.09.24-01.46.13:685][457]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.24-01.46.13:695][457]LogInit: FAudioDevice initialized.
+[2015.09.24-01.46.13:729][457]LogWorld: Game class is 'GameMode'
+[2015.09.24-01.46.13:732][457]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2015.09.24-13.46.13
+[2015.09.24-01.46.13:732][457]LogActor:Warning: GameSession /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameSession_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-01.46.13:732][457]LogActor:Warning: GameNetworkManager /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameNetworkManager_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-01.46.13:732][457]LogWorld: Bringing up level for play took: 0.002254
+[2015.09.24-01.46.13:735][457]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.332
+[2015.09.24-01.46.13:735][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-01.46.31:774][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-01.46.31:812][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-01.46.31:863][603]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000225A2660
+[2015.09.24-01.46.35:718][802]LogSavePackage: Save=1.216671ms
+[2015.09.24-01.46.35:718][802]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K423E505549ED1B393123FDA5EE057BE5.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K.uasset'
+[2015.09.24-01.46.35:723][802]LogSavePackage: Total save time: 5.970456ms
+[2015.09.24-01.46.35:723][802]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K.uasset
+[2015.09.24-01.46.39:315][961]LogSavePackage: Save=23.783873ms
+[2015.09.24-01.46.39:315][961]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex9D4FDD0E40D830A3B9023983EB28308D.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex.uasset'
+[2015.09.24-01.46.39:317][961]LogSavePackage: Total save time: 25.711365ms
+[2015.09.24-01.46.39:317][961]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex.uasset
+[2015.09.24-01.46.42:095][ 88]LogSavePackage: Save=11.725960ms
+[2015.09.24-01.46.42:095][ 88]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat1D3C9ECB491145B606E441B48C91FCF1.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset'
+[2015.09.24-01.46.42:097][ 88]LogSavePackage: Total save time: 13.649639ms
+[2015.09.24-01.46.42:097][ 88]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset
+[2015.09.24-01.54.14:487][889]LogSavePackage: Save=43.130665ms
+[2015.09.24-01.54.14:488][889]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Minimal_Default_Auto3413A828F491108CAB296CBB53CADFFA7.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2015.09.24-01.54.14:489][889]LogSavePackage: Total save time: 45.734964ms
+[2015.09.24-01.54.14:489][889]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap
+[2015.09.24-01.54.14:490][889]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.078
+[2015.09.24-01.54.14:490][889]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.078
+[2015.09.24-02.36.43:482][981]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.36.43:716][981]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.36.43:745][981]LogMaterial: 0.000065 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.36.43:770][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2015.09.24-02.36.45:341][ 29]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.36.45:341][ 29]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.36.45:341][ 29]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.37.43:720][713]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.37.43:725][713]LogMaterial: 0.000056 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.37.44:803][770]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.37.44:803][770]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.37.44:803][770]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.38.01:679][178]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.38.01:684][178]LogMaterial: 0.000043 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.38.01:711][178]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2015.09.24-02.38.02:322][209]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.38.02:322][209]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.38.02:322][209]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.38.04:691][380]LogMaterialEditor: Saving and Compiling material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat
+[2015.09.24-02.38.06:556][380]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.38.06:574][380]LogMaterial: 0.000041 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.38.06:668][380]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.38.06:697][380]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.38.06:708][380]LogMaterial: 0.000301 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.38.08:353][380]LogSavePackage: Save=10.319853ms
+[2015.09.24-02.38.08:353][380]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat1296E9254FA7463B8C74259A56489C5D.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset'
+[2015.09.24-02.38.08:355][380]LogSavePackage: Total save time: 13.795678ms
+[2015.09.24-02.38.08:355][380]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset
+[2015.09.24-02.38.08:358][380]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 61 instructions
+[2015.09.24-02.38.08:358][380]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.38.08:358][380]MaterialEditorStats: Info Texture samplers: 4/16
+[2015.09.24-02.38.12:882][742]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.38.12:882][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.24-02.38.12:882][742]PIE: New page: PIE session: Minimal_Default (25 Sep 2015 2:38:12 am)
+[2015.09.24-02.38.12:882][742]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2015.09.24-02.38.12:884][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001423s)
+[2015.09.24-02.38.12:884][742]LogAIModule: Creating AISystem for world Minimal_Default
+[2015.09.24-02.38.12:884][742]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2015.09.24-02.38.12:884][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002189s)
+[2015.09.24-02.38.12:902][742]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000311C8E00
+[2015.09.24-02.38.12:904][742]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001DC19760
+[2015.09.24-02.38.12:920][742]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.24-02.38.12:929][742]LogInit: FAudioDevice initialized.
+[2015.09.24-02.38.12:957][742]LogWorld: Game class is 'GameMode'
+[2015.09.24-02.38.12:958][742]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2015.09.24-14.38.12
+[2015.09.24-02.38.12:959][742]LogActor:Warning: GameSession /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameSession_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.38.12:959][742]LogActor:Warning: GameNetworkManager /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameNetworkManager_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.38.12:959][742]LogWorld: Bringing up level for play took: 0.001303
+[2015.09.24-02.38.12:960][742]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.023
+[2015.09.24-02.38.12:961][742]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.38.21:030][620]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.38.21:066][620]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.38.21:084][620]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000003EA9940
+[2015.09.24-02.38.22:643][738]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.38.22:705][738]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.38.22:710][738]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.38.22:735][738]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2015.09.24-02.38.23:351][765]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.38.23:351][765]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.38.23:351][765]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.38.32:328][366]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.38.32:333][366]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.38.32:909][396]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.38.32:917][396]LogMaterial: 0.000028 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.38.32:985][400]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2015.09.24-02.38.32:985][400]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.38.32:985][400]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.38.33:555][428]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.38.33:555][428]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.38.33:555][428]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.38.34:489][489]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.38.34:495][489]LogMaterial: 0.000072 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.38.35:159][525]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2015.09.24-02.38.35:159][525]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.38.35:159][525]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.38.35:919][573]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.38.35:925][573]LogMaterial: 0.000059 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.38.36:532][605]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.38.36:532][605]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.38.36:532][605]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.39.07:624][985]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.39.07:629][985]LogMaterial: 0.000082 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.39.08:635][ 43]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2015.09.24-02.39.08:635][ 43]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.39.08:635][ 43]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.39.09:577][112]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.39.09:582][112]LogMaterial: 0.000066 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.39.10:210][144]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2015.09.24-02.39.10:210][144]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.39.10:210][144]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.39.11:585][236]LogMaterialEditor: Saving and Compiling material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat
+[2015.09.24-02.39.12:126][236]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.39.12:144][236]LogMaterial: 0.000042 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.39.12:161][236]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.39.12:185][236]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.39.12:199][236]LogMaterial: 0.002990 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.39.13:898][236]LogSavePackage: Save=9.900221ms
+[2015.09.24-02.39.13:898][236]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_MatEA697D03415EF7D25C6B818F0856B7FB.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset'
+[2015.09.24-02.39.13:900][236]LogSavePackage: Total save time: 12.892775ms
+[2015.09.24-02.39.13:900][236]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset
+[2015.09.24-02.39.13:903][236]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 62 instructions
+[2015.09.24-02.39.13:903][236]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.39.13:903][236]MaterialEditorStats: Info Texture samplers: 4/16
+[2015.09.24-02.39.17:954][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.39.17:954][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.24-02.39.17:954][509]PIE: New page: PIE session: Minimal_Default (25 Sep 2015 2:39:17 am)
+[2015.09.24-02.39.17:954][509]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2015.09.24-02.39.17:956][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001254s)
+[2015.09.24-02.39.17:956][509]LogAIModule: Creating AISystem for world Minimal_Default
+[2015.09.24-02.39.17:956][509]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2015.09.24-02.39.17:956][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002049s)
+[2015.09.24-02.39.17:978][509]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.24-02.39.17:986][509]LogInit: FAudioDevice initialized.
+[2015.09.24-02.39.18:015][509]LogWorld: Game class is 'GameMode'
+[2015.09.24-02.39.18:017][509]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2015.09.24-14.39.18
+[2015.09.24-02.39.18:017][509]LogActor:Warning: GameSession /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameSession_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.39.18:017][509]LogActor:Warning: GameNetworkManager /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameNetworkManager_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.39.18:017][509]LogWorld: Bringing up level for play took: 0.001334
+[2015.09.24-02.39.18:019][509]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.084
+[2015.09.24-02.39.18:019][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.39.29:755][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.39.29:792][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.39.29:811][627]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000020D19A80
+[2015.09.24-02.39.36:086][ 32]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.39.36:092][ 32]LogMaterial: 0.000045 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.39.36:798][ 71]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.39.36:804][ 71]LogMaterial: 0.000031 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.39.37:519][109]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.39.37:519][109]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.39.37:519][109]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.39.39:355][233]LogMaterialEditor: Saving and Compiling material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat
+[2015.09.24-02.39.39:894][233]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.09.24-02.39.39:912][233]LogMaterial: 0.000068 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.39.39:924][233]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.39.39:944][233]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.39.39:954][233]LogMaterial: 0.001638 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.39.41:596][233]LogSavePackage: Save=10.173231ms
+[2015.09.24-02.39.41:596][233]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat47DCFEBA4696BD3F7FF7FA886FF38FB0.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset'
+[2015.09.24-02.39.41:598][233]LogSavePackage: Total save time: 13.052594ms
+[2015.09.24-02.39.41:598][233]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset
+[2015.09.24-02.39.41:601][233]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 61 instructions
+[2015.09.24-02.39.41:601][233]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.39.41:601][233]MaterialEditorStats: Info Texture samplers: 4/16
+[2015.09.24-02.39.59:174][224]LogEditorViewport: Clicking on Actor (LMB): Skydome_C (Skydome)
+[2015.09.24-02.40.00:564][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.40.00:564][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.24-02.40.00:565][300]PIE: New page: PIE session: Minimal_Default (25 Sep 2015 2:40:00 am)
+[2015.09.24-02.40.00:565][300]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2015.09.24-02.40.00:566][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001163s)
+[2015.09.24-02.40.00:566][300]LogAIModule: Creating AISystem for world Minimal_Default
+[2015.09.24-02.40.00:566][300]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2015.09.24-02.40.00:566][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.001866s)
+[2015.09.24-02.40.00:588][300]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.24-02.40.00:597][300]LogInit: FAudioDevice initialized.
+[2015.09.24-02.40.00:627][300]LogWorld: Game class is 'GameMode'
+[2015.09.24-02.40.00:629][300]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2015.09.24-14.40.00
+[2015.09.24-02.40.00:629][300]LogActor:Warning: GameSession /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameSession_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.40.00:629][300]LogActor:Warning: GameNetworkManager /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameNetworkManager_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.40.00:629][300]LogWorld: Bringing up level for play took: 0.001282
+[2015.09.24-02.40.00:630][300]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.698
+[2015.09.24-02.40.00:631][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.40.30:605][310]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.40.30:642][310]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.40.30:693][311]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000028FF3560
+[2015.09.24-02.46.54:306][793]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2015.09.24-02.46.54:351][793]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2015.09.24-02.46.54:356][793]LogMaterial: 0.000023 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.46.54:378][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2015.09.24-02.46.56:521][915]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.46.56:521][915]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.46.56:521][915]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.47.57:649][479]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002374A980
+[2015.09.24-02.47.57:699][479]LogSavePackage: Save=40.422554ms
+[2015.09.24-02.47.57:700][479]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Minimal_Default_Auto41F477CBD4A814C19F218499EC1C0FEBD.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2015.09.24-02.47.57:701][479]LogSavePackage: Total save time: 43.679032ms
+[2015.09.24-02.47.57:701][479]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap
+[2015.09.24-02.47.57:702][479]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.073
+[2015.09.24-02.47.57:702][479]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.073
+[2015.09.24-02.47.57:709][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Skydome] ([1] browsable assets)...
+[2015.09.24-02.47.57:727][479]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Skydome.Skydome]
+[2015.09.24-02.47.57:727][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skydome]
+[2015.09.24-02.47.57:727][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skydome" FILE="../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Autosaves/Game/Skydome_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2015.09.24-02.47.57:747][479]LogSavePackage: Save=17.394079ms
+[2015.09.24-02.47.57:747][479]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Skydome_Auto4FB6FB501422B6B4AB94C2298B50F6EDB.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Autosaves/Game/Skydome_Auto4.uasset'
+[2015.09.24-02.47.57:748][479]LogSavePackage: Total save time: 20.008352ms
+[2015.09.24-02.47.57:748][479]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/Autosaves/Game/Skydome_Auto4.uasset
+[2015.09.24-02.47.57:748][479]LogFileHelpers: Auto-saving content packages took 0.043
+[2015.09.24-02.49.26:045][633]Cmd: TRANSACTION UNDO
+[2015.09.24-02.49.26:046][633]LogEditorTransaction: Undo Replace component used material
+[2015.09.24-02.49.30:645][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.49.30:645][ 61]BlueprintLog: New page: Pre-Play auto-recompile
+[2015.09.24-02.49.30:648][ 61]LogPlayLevel: [PlayLevel] Compiling Skydome before play...
+[2015.09.24-02.49.30:688][ 61]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2015.09.24-02.49.30:706][ 61]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000007F0A980
+[2015.09.24-02.49.30:710][ 61]PIE: New page: PIE session: Minimal_Default (25 Sep 2015 2:49:30 am)
+[2015.09.24-02.49.30:710][ 61]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2015.09.24-02.49.30:711][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001203s)
+[2015.09.24-02.49.30:711][ 61]LogAIModule: Creating AISystem for world Minimal_Default
+[2015.09.24-02.49.30:711][ 61]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2015.09.24-02.49.30:712][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.001955s)
+[2015.09.24-02.49.30:733][ 61]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.24-02.49.30:743][ 61]LogInit: FAudioDevice initialized.
+[2015.09.24-02.49.30:771][ 61]LogWorld: Game class is 'GameMode'
+[2015.09.24-02.49.30:772][ 61]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2015.09.24-14.49.30
+[2015.09.24-02.49.30:772][ 61]LogActor:Warning: GameSession /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameSession_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.49.30:772][ 61]LogActor:Warning: GameNetworkManager /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameNetworkManager_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.49.30:773][ 61]LogWorld: Bringing up level for play took: 0.001254
+[2015.09.24-02.49.30:774][ 61]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.865
+[2015.09.24-02.49.30:774][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.49.53:204][554]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.49.53:243][554]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.49.53:288][555]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000004C40B1A0
+[2015.09.24-02.50.00:437][988]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.50.00:437][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.24-02.50.00:437][988]PIE: New page: PIE session: Minimal_Default (25 Sep 2015 2:50:00 am)
+[2015.09.24-02.50.00:437][988]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2015.09.24-02.50.00:439][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001223s)
+[2015.09.24-02.50.00:439][988]LogAIModule: Creating AISystem for world Minimal_Default
+[2015.09.24-02.50.00:439][988]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2015.09.24-02.50.00:439][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.001954s)
+[2015.09.24-02.50.00:460][988]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.24-02.50.00:469][988]LogInit: FAudioDevice initialized.
+[2015.09.24-02.50.00:500][988]LogWorld: Game class is 'GameMode'
+[2015.09.24-02.50.00:502][988]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2015.09.24-14.50.00
+[2015.09.24-02.50.00:502][988]LogActor:Warning: GameSession /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameSession_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.50.00:502][988]LogActor:Warning: GameNetworkManager /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameNetworkManager_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.50.00:502][988]LogWorld: Bringing up level for play took: 0.001396
+[2015.09.24-02.50.00:504][988]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.596
+[2015.09.24-02.50.00:504][988]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.50.02:947][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.50.02:981][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.50.03:024][186]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003D535940
+[2015.09.24-02.50.59:881][494]BlueprintLog: New page: Compile Skydome
+[2015.09.24-02.50.59:945][494]BlueprintEditorCompileResults: Info [6387.70] Compile of Skydome successful! [in 63 ms]
+[2015.09.24-02.52.13:620][839]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2015.09.24-02.52.21:839][345]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.52.21:881][345]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.52.21:886][345]LogMaterial: 0.000031 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.52.21:912][345]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2015.09.24-02.52.22:918][385]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.52.22:918][385]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.52.22:918][385]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.52.41:669][638]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.52.41:675][638]LogMaterial: 0.000069 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.52.42:323][667]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2015.09.24-02.52.42:323][667]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.52.42:323][667]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.52.47:239][989]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.52.47:245][989]LogMaterial: 0.000060 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.52.47:886][ 24]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.52.47:886][ 24]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.52.47:886][ 24]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.52.50:285][188]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.52.50:291][188]LogMaterial: 0.000059 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.52.50:935][224]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2015.09.24-02.52.50:935][224]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.52.50:935][224]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.52.55:182][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.52.55:182][513]BlueprintLog: New page: Pre-Play auto-recompile
+[2015.09.24-02.52.55:185][513]LogPlayLevel: [PlayLevel] Compiling Skydome before play...
+[2015.09.24-02.52.55:226][513]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2015.09.24-02.52.55:247][513]PIE: New page: PIE session: Minimal_Default (25 Sep 2015 2:52:55 am)
+[2015.09.24-02.52.55:247][513]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2015.09.24-02.52.55:248][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001137s)
+[2015.09.24-02.52.55:248][513]LogAIModule: Creating AISystem for world Minimal_Default
+[2015.09.24-02.52.55:249][513]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2015.09.24-02.52.55:249][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.001898s)
+[2015.09.24-02.52.55:271][513]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.24-02.52.55:280][513]LogInit: FAudioDevice initialized.
+[2015.09.24-02.52.55:312][513]LogWorld: Game class is 'GameMode'
+[2015.09.24-02.52.55:314][513]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2015.09.24-14.52.55
+[2015.09.24-02.52.55:314][513]LogActor:Warning: GameSession /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameSession_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.52.55:314][513]LogActor:Warning: GameNetworkManager /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameNetworkManager_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.52.55:314][513]LogWorld: Bringing up level for play took: 0.001390
+[2015.09.24-02.52.55:316][513]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.585
+[2015.09.24-02.52.55:316][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.53.00:431][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.53.00:468][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.53.00:511][ 15]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000110637E0
+[2015.09.24-02.53.05:179][283]LogMaterialEditor: Saving and Compiling material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat
+[2015.09.24-02.53.05:720][283]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.53.05:738][283]LogMaterial: 0.000080 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.53.05:749][283]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.53.05:766][283]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.53.05:777][283]LogMaterial: 0.000421 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.53.07:432][283]LogSavePackage: Save=9.655362ms
+[2015.09.24-02.53.07:432][283]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat14C5EBAD4589818C3B4921B062CA2043.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset'
+[2015.09.24-02.53.07:435][283]LogSavePackage: Total save time: 14.872763ms
+[2015.09.24-02.53.07:435][283]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset
+[2015.09.24-02.53.07:439][283]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 62 instructions
+[2015.09.24-02.53.07:439][283]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.53.07:439][283]MaterialEditorStats: Info Texture samplers: 4/16
+[2015.09.24-02.53.12:178][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.53.12:178][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.24-02.53.12:178][609]PIE: New page: PIE session: Minimal_Default (25 Sep 2015 2:53:12 am)
+[2015.09.24-02.53.12:178][609]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2015.09.24-02.53.12:179][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001144s)
+[2015.09.24-02.53.12:179][609]LogAIModule: Creating AISystem for world Minimal_Default
+[2015.09.24-02.53.12:179][609]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2015.09.24-02.53.12:180][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.001858s)
+[2015.09.24-02.53.12:203][609]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.24-02.53.12:211][609]LogInit: FAudioDevice initialized.
+[2015.09.24-02.53.12:241][609]LogWorld: Game class is 'GameMode'
+[2015.09.24-02.53.12:243][609]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2015.09.24-14.53.12
+[2015.09.24-02.53.12:243][609]LogActor:Warning: GameSession /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameSession_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.53.12:243][609]LogActor:Warning: GameNetworkManager /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameNetworkManager_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.24-02.53.12:243][609]LogWorld: Bringing up level for play took: 0.001359
+[2015.09.24-02.53.12:245][609]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.345
+[2015.09.24-02.53.12:245][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.53.20:016][368]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.53.20:051][368]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2015.09.24-02.53.20:092][369]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011063F60
+[2015.09.24-02.53.46:136][973]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.53.46:141][973]LogMaterial: 0.000069 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.53.47:144][ 25]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.53.47:145][ 25]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.53.47:145][ 25]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.53.56:284][590]LogMaterialEditor: Saving and Compiling material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat
+[2015.09.24-02.53.56:824][590]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.53.56:842][590]LogMaterial: 0.000067 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.53.56:853][590]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.53.56:891][590]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.53.56:898][590]LogMaterial: 0.000297 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.53.58:560][590]LogSavePackage: Save=10.287889ms
+[2015.09.24-02.53.58:560][590]LogSavePackage: Moving '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Saved/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat5DB285384EB293B78DA143B8115D3FA3.tmp' to '../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset'
+[2015.09.24-02.53.58:563][590]LogSavePackage: Total save time: 14.393017ms
+[2015.09.24-02.53.58:563][590]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/sumnerryan/Documents/Unreal Projects/Video360/Content/360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat.uasset
+[2015.09.24-02.53.58:567][590]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 61 instructions
+[2015.09.24-02.53.58:567][590]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.53.58:567][590]MaterialEditorStats: Info Texture samplers: 4/16
+[2015.09.24-02.55.55:887][454]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'Skydome', cached variable property's owner is '/Game/Skydome.SKEL_Skydome_C'
+[2015.09.24-02.55.58:465][612]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'Skydome', cached variable property's owner is '/Game/Skydome.SKEL_Skydome_C'
+[2015.09.24-02.56.22:204][147]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.56.22:209][147]LogMaterial: 0.000081 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.56.23:298][204]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2015.09.24-02.56.23:298][204]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.56.23:298][204]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.56.24:165][263]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.56.24:170][263]LogMaterial: 0.000041 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.56.24:821][294]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.56.24:821][294]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.56.24:821][294]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.56.26:973][440]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.56.26:978][440]LogMaterial: 0.000046 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.56.27:622][467]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2015.09.24-02.56.27:622][467]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.56.27:622][467]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.56.32:124][767]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.56.32:130][767]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.56.32:762][797]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.56.32:762][797]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.56.32:762][797]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.56.36:456][ 45]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.56.36:462][ 45]LogMaterial: 0.000037 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.56.37:080][ 71]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.56.37:080][ 71]MaterialEditorStats: Info Vertex shader: 32 instructions
+[2015.09.24-02.56.37:080][ 71]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.56.43:524][504]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.56.43:524][504]LogMaterial:Warning: Failed to compile Material /Engine/Transient.PreviewMaterial_2 for platform PCD3D_SM5, Default Material will be used in game.
+[2015.09.24-02.56.43:524][504]LogMaterial:Warning: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 0
+[2015.09.24-02.56.43:524][504]LogMaterial: 0.000062 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.56.43:525][504]MaterialEditorStats:Error: Error [SM5] (Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 0
+[2015.09.24-02.56.49:604][934]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.56.49:609][934]LogMaterial: 0.000127 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.56.50:249][960]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.56.50:249][960]MaterialEditorStats: Info Vertex shader: 32 instructions
+[2015.09.24-02.56.50:249][960]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.56.55:257][295]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.56.55:262][295]LogMaterial: 0.000049 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.56.55:913][324]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2015.09.24-02.56.55:913][324]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.09.24-02.56.55:913][324]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.09.24-02.57.04:673][913]LogMaterialEditor: Applying material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat
+[2015.09.24-02.57.05:215][913]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2015.09.24-02.57.05:233][913]LogMaterial: 0.000068 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.57.05:244][913]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.57.05:262][913]LogMaterial: Missing cached shader map for material 360_Labs_2014_Cinematic_VR_Video_Reel_720p192K_Tex_Mat, compiling. 
+[2015.09.24-02.57.05:273][913]LogMaterial: 0.000456 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.09.24-02.57.07:188][ 14]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 61 instructions
+[2015.
